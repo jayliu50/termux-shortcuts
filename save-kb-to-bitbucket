@@ -1,0 +1,4 @@
+cd /data/data/com.termux/files/home/storage/shared/termux/knowledge-base
+git checkout -- tiddlers/$__StoryList.tid
+git add . && git commit -m "Content Update (Semi-automatic)" && git push
+
